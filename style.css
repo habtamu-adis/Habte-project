@@ -23,10 +23,10 @@ table{
         justify-content: center;
           background: rgb(71, 78, 31);
     }
-img
-{width :200px;
-    height :200px;
-    border-radius:100px;
+img{
+width :200px;
+    height :300px;
+    border-radius:200px;
 }
     nav, ul, li {
         list-style:none;
