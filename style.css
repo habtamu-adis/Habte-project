@@ -4,6 +4,9 @@ body{
     padding: 0;
     text-align: center;
 }
+table{
+    background-color:yellow;
+}
     header{
         background: #c01717;;
         color: rgb(17, 26, 65);
@@ -20,6 +23,10 @@ body{
         justify-content: center;
           background: rgb(71, 78, 31);
     }
+img{width :200px;
+    height :20;
+    border-radius:300px;
+}
     nav, ul, li {
         list-style:none;
         padding: 15px; 
@@ -107,6 +114,4 @@ footer{
    padding: 6px;
    margin: 5px;
 }
-table{
-    background-color:yellow;
-}
+
