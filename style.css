@@ -8,10 +8,10 @@ table{
     background-color:yellow;
 }
     header{
-        background:green;
+        background:red;
         color: rgb(17, 26, 65);
         padding: 10px;
-        font-size:0.5cm;
+        font-size:0.3cm;
     }
    header nav, ul {
         list-style:none;
@@ -53,7 +53,7 @@ width :200px;
      margin: auto;   
  }
  skill {
-   background-color:yellow;
+   background-color:white;
     text-align:center;
     padding: 50px 20px;
     gap: 40px;
