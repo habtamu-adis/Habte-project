@@ -8,9 +8,9 @@ table{
     background-color:yellow;
 }
     header{
-        background: #c01717;;
+        background:white;
         color: rgb(17, 26, 65);
-        padding: 30px;
+        padding: 10px;
         font-size:0.5cm;
     }
    header nav, ul {
@@ -18,7 +18,7 @@ table{
         padding: 0;
         margin:0;
         display:flex;
-        gap: 20px;
+        gap: 10px;
         align-items: center;
         justify-content: center;
           background: rgb(71, 78, 31);
@@ -56,7 +56,7 @@ width :200px;
    background-color:yellow;
     text-align:center;
     padding: 60px 10px;
-    gap: 50px;
+    gap: 40px;
  }
   ul{
     display: flex;
