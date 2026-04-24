@@ -1,10 +1,13 @@
-         
-    
 body{
         background-color: aqua;
         padding: 1px;
         margin: 2px;
         text-align: center;}
+image {
+  width:200px;
+ height:200px;
+ border-radius:200;
+}
 
 header{
     background-color: gray;
@@ -28,7 +31,7 @@ justify-content:center;}
 }
 
     table{
-    background-color: blueviolet;
+    background-color:yellow;
     text-align: center;
 }
 table,th,tr,td{
